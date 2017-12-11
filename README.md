@@ -37,4 +37,13 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 
 ![Composite Diagram](https://i.imgur.com/vUrQtuI.jpg "Composite Diagram")
 
-### Conclusion
+*Since uploading Virtual Machines is too big of an operation, only Snapshots of them are available.*
+
+#### Credits
+
+[Dylan Peltre]([https://github.com/D-Peltre])
+[Romain Verhaeghe](https://github.com/romainver)
+[Cédric Montes](https://github.com/Cedric-M)
+[Dylan Cattelan](https://github.com/DylanCa)
+
+[Exia.CESi 3rd Year](https://exia.cesi.fr/)
