@@ -2,7 +2,21 @@
 
 For a 3rd year IT engineering school project, we had to setup two **Active Directory** forests in order to create **Group Policies, Rules concerning Passwords or Wallpapers, or even Security issues.** 
 
-Moreover, a **Supervision** setup has to be made, in order to be aware of the provided services' vitality. In order to do so, we used **[CENTREON](centreon.com)**
+Moreover, a **Supervision** setup has to be made, in order to be aware of the provided services' vitality. In order to do so, we used **[CENTREON](centreon.com)** for several reasons, such as the possibility to use a poller, the ease to create dashboards, to add new services or plugins, or even hosts, and we already worked with this server monitoring tool.
+
+### Project Presentation
+
+##### Organisation Breakdown Structure
+
+![OBS](https://i.imgur.com/MkRp0CB.png "OBS")
+
+##### Project Breakdown Structure
+
+![PBS](https://i.imgur.com/quJuOIK.png "PBS")
+
+##### Work Breakdown Structure
+
+![WBS](https://i.imgur.com/YsVTVaw.jpg "WBS")
 
 ### Realisation
 
@@ -28,6 +42,10 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 * Logging every state change
 * Dashboard easy to understand
 
+
+![Composite Diagram](https://i.imgur.com/vUrQtuI.jpg "Composite Diagram")
+
+
 | Used for        | Operating System           | Name  |
 | ------------- |:-------------:| -----:|
 | iSEC Group - Main Server     | Windows Server 2012 R2 | SRV-GROUP-Principal |
@@ -35,9 +53,9 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 | iSEC Telecom - Main Server | Windows Server 2012 R2      |    SRV-TELECOM-Principal |
 | Supervision | CentOS - Centreon      |    SRV-CENTREON |
 
-![Composite Diagram](https://i.imgur.com/vUrQtuI.jpg "Composite Diagram")
+*Since uploading Virtual Machines is too big of an operation, only Snap
+shots of them are available.*
 
-*Since uploading Virtual Machines is too big of an operation, only Snapshots of them are available.*
 
 #### Credits
 
