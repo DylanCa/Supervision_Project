@@ -18,6 +18,10 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 
 ![WBS](https://i.imgur.com/YsVTVaw.jpg "WBS")
 
+##### GANTT
+
+![GANTT](https://i.imgur.com/G7cm1KC.png "GANTT")
+
 ### Realisation
 
 **Functionnalities and Services - Windows Server & Users :**
@@ -41,7 +45,6 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 * DNS / DHCP interruptions
 * Logging every state change
 * Dashboard easy to understand
-
 
 ![Composite Diagram](https://i.imgur.com/vUrQtuI.jpg "Composite Diagram")
 
