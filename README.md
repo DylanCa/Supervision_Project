@@ -35,6 +35,6 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 | iSEC Telecom - Main Server | Windows Server 2012 R2      |    SRV-TELECOM-Principal |
 | Supervision | CentOS - Centreon      |    SRV-CENTREON |
 
-[Imgur](https://i.imgur.com/vUrQtuI.jpg)
+![Composite Diagram](https://i.imgur.com/vUrQtuI.jpg "Composite Diagram")
 
 ### Conclusion
