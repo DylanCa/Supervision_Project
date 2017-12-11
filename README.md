@@ -4,6 +4,12 @@ For a 3rd year IT engineering school project, we had to setup two **Active Direc
 
 Moreover, a **Supervision** setup has to be made, in order to be aware of the provided services' vitality. In order to do so, we used **[CENTREON](centreon.com)** for several reasons, such as the possibility to use a poller, the ease to create dashboards, to add new services or plugins, or even hosts, and we already worked with this server monitoring tool.
 
+##### Organizational chart
+
+![iSEC Group](https://i.imgur.com/Hx6GJ74.png "iSEC Group")
+
+![iSEC Telecom](https://i.imgur.com/omxVeJt.png "iSEC Telecom")
+
 ### Project Presentation
 
 ##### Organisation Breakdown Structure
