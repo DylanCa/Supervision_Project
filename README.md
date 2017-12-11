@@ -41,7 +41,7 @@ Moreover, a **Supervision** setup has to be made, in order to be aware of the pr
 
 #### Credits
 
-[Dylan Peltre]([https://github.com/D-Peltre])
+[Dylan Peltre](https://github.com/D-Peltre)
 [Romain Verhaeghe](https://github.com/romainver)
 [Cédric Montes](https://github.com/Cedric-M)
 [Dylan Cattelan](https://github.com/DylanCa)
